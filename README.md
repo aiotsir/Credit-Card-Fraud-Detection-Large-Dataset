@@ -7,3 +7,7 @@ In the dataset, there are four files and total size is 1.35 GB. Cleaned and Merg
 Train data set : (590540, 434) i.e., five lakh ninety thousand five hundred forty rows and 434 features
 
 Test data set : (506691, 433) i.e., five lakh six thousand six hundred ninety-one rows and 433 features
+
+# Models 
+
+## 1. Isolation Forest      2. XGBoost    3. Neural Network  4. Ensemble of XGBoost and Isolation Forest  
